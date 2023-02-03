@@ -1,1 +1,1 @@
-Shell basics repository description
+Project for shell permissions.
